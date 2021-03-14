@@ -1,0 +1,21 @@
+body{
+    background: burlywood;
+}
+#table-section{ 
+    background: #fff;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid rgb(184, 183, 183);
+  }
+  
+  th, td {
+    text-align: center;
+    padding: 14px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #020202;
+  }
